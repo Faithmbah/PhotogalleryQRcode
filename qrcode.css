@@ -1,0 +1,43 @@
+
+body{
+    background-color: bisque;
+}
+.box {
+   background-color: grey;
+   position: absolute;
+   margin-top: 95px;
+   margin-bottom: px;
+   height: 460px;
+   margin-left: 540px;
+   margin-right:540px;
+   border-radius: 20px;
+}
+.image {
+    background-color: white;
+  margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+#pic{
+    position: relative;
+    margin-left: 29px;
+    margin-right: 25px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.text {
+    text-align: center;
+    color: black;
+    margin-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 18px;
+}
+
+#pad {
+    padding-left: 10PX;
+    padding-right: 10px;
+    color:whitesmoke;
+    font-size: 12px;
+    line-height: 18px;
+}
